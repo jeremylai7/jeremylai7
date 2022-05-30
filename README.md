@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shenzhen
-- 🌱 I’m currently learning Java,Redis
-- Welcome look my blog [cnblog](https://www.cnblogs.com/jeremylai7)
-
 <!--
 **jeremylai7/jeremylai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
