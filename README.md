@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylai7&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
