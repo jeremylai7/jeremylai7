@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 关注我的公众号：**小码code**
 
-![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/11553237/187076117-c03a0529-0bf6-4501-8dee-05ed39ae4864.png)
+![qrcode_for_gh_48118ba6d9e5_258 (3)](https://user-images.githubusercontent.com/11553237/187153156-dadb0563-4006-4fe7-b51d-e816f2092d80.jpg)
+
 
 <!-- ![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
 ![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only) -->
