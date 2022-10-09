@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 <!-- ![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
 ![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only) -->
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
