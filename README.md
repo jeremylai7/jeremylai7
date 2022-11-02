@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <!-- ![qrcode_for_gh_48118ba6d9e5_258 (3)](https://user-images.githubusercontent.com/11553237/187153156-dadb0563-4006-4fe7-b51d-e816f2092d80.jpg) -->
 
-![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/11553237/199298374-1041cb5f-dd2c-40fe-8992-e92c7e7513c3.png)
+<!-- ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/11553237/199298374-1041cb5f-dd2c-40fe-8992-e92c7e7513c3.png) -->
 
+![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/11553237/199368998-0ad24252-7cf7-4957-85b1-9ae62d8c9b51.png)
 
 
 <!-- ![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
