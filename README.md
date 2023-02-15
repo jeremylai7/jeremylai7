@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <!-- ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/11553237/199298374-1041cb5f-dd2c-40fe-8992-e92c7e7513c3.png) -->
 
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/11553237/218302468-941bef92-8c0b-44ff-a6a6-cc7cdc253011.png">
-
-
+![扫码_搜索联合传播样式-标准色版 (3)](https://user-images.githubusercontent.com/11553237/218899936-569055d0-07cc-4bad-b302-25596e438e79.png)
 
 
 <!-- ![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
