@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremylai7&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-👋 欢迎关注我的公众号：**小码code**
+👋 欢迎关注我的公众号：**码出code**
 
 <!-- ![qrcode_for_gh_48118ba6d9e5_258 (3)](https://user-images.githubusercontent.com/11553237/187153156-dadb0563-4006-4fe7-b51d-e816f2092d80.jpg) -->
 
