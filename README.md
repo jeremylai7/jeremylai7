@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 <!-- ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/11553237/199298374-1041cb5f-dd2c-40fe-8992-e92c7e7513c3.png) -->
 
-![扫码_搜索联合传播样式-标准色版](https://github.com/jeremylai7/jeremylai7/assets/11553237/4f0c9448-94e5-49dd-ad24-7919a61e52df)
+![Uploading 扫码_搜索联合传播样式-标准色版(2).png…]()
+
+
 
 
 <!-- ![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
