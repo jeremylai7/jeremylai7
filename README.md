@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <!--![扫码_搜索联合传播样式-标准色版(2)](https://github.com/jeremylai7/jeremylai7/assets/11553237/9f9cff9d-d2a4-403b-ab19-241dabb00156) -->
 
-![公众号介绍(1)](https://github.com/jeremylai7/jeremylai7/assets/11553237/799a2e93-1ecc-43ce-8ee3-6e839d0dc56a)
+![公众号介绍(1)](https://github.com/jeremylai7/jeremylai7/assets/11553237/44b8f4be-348d-47b4-abc3-11f64f5b74c4)
+
 
 
 
