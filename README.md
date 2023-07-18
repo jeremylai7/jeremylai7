@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 
 <!-- ![扫码_搜索联合传播样式-白色版](https://user-images.githubusercontent.com/11553237/199298374-1041cb5f-dd2c-40fe-8992-e92c7e7513c3.png) -->
 
-![扫码_搜索联合传播样式-标准色版(2)](https://github.com/jeremylai7/jeremylai7/assets/11553237/9f9cff9d-d2a4-403b-ab19-241dabb00156)
+<!--![扫码_搜索联合传播样式-标准色版(2)](https://github.com/jeremylai7/jeremylai7/assets/11553237/9f9cff9d-d2a4-403b-ab19-241dabb00156) -->
+
+![公众号介绍(1)](https://github.com/jeremylai7/jeremylai7/assets/11553237/799a2e93-1ecc-43ce-8ee3-6e839d0dc56a)
+
 
 
 
